@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+* {
+    font-family: 'Bevan', serif;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: none;
+}
+
+body {
+    background-image: url('./assets/black-surface-with-slight-spots.jpg');
+    color: white;
+}
+
+a{
+    color: #f7d354;
+    transition: 0.5s;
+}
+
+a:hover{
+    color: orange;
+}
